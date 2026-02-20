@@ -4,6 +4,8 @@
 This repository contains a data quality pipeline developed during the *Data and Information Quality* course at Politecnico di Milano.  
 The project follows a typical data quality workflow: initial assessment and profiling, data wrangling and standardization, missing value handling (mostly via simple imputations), and duplicate detection/deduplication.
 
+Grade: 4/4
+
 ## Data
 - **Input:** `dataset/Comune-di-Milano-Servizi-alla-persona-parrucchieri-estetisti(in).csv`  
 - **Content:** registry of hairdressers and beauty service establishments in Milan (service type and address-related fields)
