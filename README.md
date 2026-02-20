@@ -14,6 +14,7 @@ The project follows a typical data quality workflow: initial assessment and prof
 - `profilingReport/` — HTML data profiling reports  
 - `utils/` — helper scripts 
 - `sandbox/` — temporary files and experiments  
+- `doc/` — project report   
 - `project.ipynb` — main notebook (pipeline implementation)  
 
 
