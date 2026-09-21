@@ -1,4 +1,4 @@
-# Data and Information Quality Project
+# DQP: Data Quality Pipeline
 
 ## Overview
 This repository contains a data quality pipeline developed during the *Data and Information Quality* course at Politecnico di Milano.  
